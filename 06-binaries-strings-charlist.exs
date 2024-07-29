@@ -37,7 +37,7 @@ IO.inspect("hello", binaries: :as_binaries)
 
 # Bitstrings
 # A bitstring is a fundamental data type in Elixir, denoted with the <<>> syntax.
-# A bitstrinngn is a contiguous sequence of bits in memeory.
+# A bitstring is a contiguous sequence of bits in memeory.
 
 # By default, 8 bits(i.e. byte) is used to store each number in a bitstring, but
 # you can manually specify the number of bits via a ::n modifier to denote the size
