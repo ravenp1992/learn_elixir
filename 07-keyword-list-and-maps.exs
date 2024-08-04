@@ -103,7 +103,7 @@ IO.inspect(map)
 # ** (KeyError) key :agee not found in: %{name: "John", age: 23}
 # %{map | agee: 27}
 
-# Nested dat structures
+# Nested data structures
 
 # Often we will have maps inside maps, or even keywords lists inside maps, and so forth.
 # Elixir provides conveniences for manipulating nested data structures via the get_in/1, put_in/2, udpate_in/2,
